@@ -2,7 +2,7 @@
 
 A script to install Ubuntu chroot in Termux
 
-https://github.com/Neo-Oli/termux-ubuntu It dose'nt work because of ubuntu image link was broken. 
+https://github.com/Neo-Oli/termux-ubuntu It does'nt work because of ubuntu image link was broken. 
 
 this is the new link 
 
