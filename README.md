@@ -12,7 +12,7 @@ The script will make its files in the current directory. So if you want your Ubu
 ```
 mkdir -p ~/jails/ubuntu
 cd ~/jails/ubuntu
-wget https://raw.githubusercontent.com/asecginli/termux-ubuntu/ubuntu.sh
+wget https://raw.githubusercontent.com/asecginli/termux-ubuntu/main/ubuntu.sh
 bash ubuntu.sh
 ```
 
