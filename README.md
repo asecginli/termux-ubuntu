@@ -2,6 +2,11 @@
 
 A script to install Ubuntu chroot in Termux
 
+It dose'nt work because that currupted link is https://partner-images.canonical.com/core/disco/current/ubuntu-disco-core-cloudimg-${archurl}-root.tar.gz
+
+this is the new link 
+https://partner-images.canonical.com/core/bionic/current/ubuntu-disco-core-cloudimg-${archurl}-root.tar.gz
+
 You need to install wget and proot in Termux before using this script.
 
 ```
